@@ -2,9 +2,9 @@
 this script is used to capture router's login username and password
 
 requirements :
-*Linux terminal
-*bettercap
-*iptables
+Linux terminal
+bettercap
+iptables
 
 Features:
 Automatic network interface and gateway detection.
